@@ -1,0 +1,181 @@
+{
+    "id": 1,
+    "name": "The Halal Shack",
+    "imgUrl": "..",
+    "menu": {
+        "Styles": [
+            {
+                "item": "Rice Bowl",
+                "min_calories": 590,
+                "max_calories": 1140
+            },
+            {
+                "item": "Salad Bowl",
+                "min_calories": 193,
+                "max_calories": 495
+            },
+            {
+                "item": "Fries Bowl",
+                "min_calories": 610,
+                "max_calories": 1160
+            },
+            {
+                "item": "Zoodles Bowl",
+                "min_calories": 193,
+                "max_calories": 495
+            },
+            {
+                "item": "Gyro",
+                "min_calories": 495,
+                "max_calories": 965,
+                "description": "Free fries optional with all wraps"
+            },
+            {
+                "item": "Naan Roll",
+                "min_calories": 495,
+                "max_calories": 965,
+                "description": "Free fries optional with all wraps"
+            }
+        ],
+        "Fillings": [
+            {
+                "item": "Chicken",
+                "price": 8.49,
+                "calories": 175,
+                "meat": true
+            },
+            {
+                "item": "Beef",
+                "price": 8.49,
+                "calories": 450,
+                "meat": true
+            },
+            {
+                "item": "Mix",
+                "price": 8.49,
+                "calories": 310,
+                "meat": true
+            },
+            {
+                "item": "Falafel",
+                "price": 8.29,
+                "calories": 200,
+                "meat": false
+            },
+            {
+                "item": "Crispy Chicken",
+                "price": 8.49,
+                "calories": 450,
+                "meat": true
+            },
+            {
+                "item": "Shrimp",
+                "price": 8.49,
+                "calories": 200,
+                "meat": true
+            }
+        ],
+        "Toppings": [
+            {
+                "item": "Crisp Lettuce",
+                "price": null,
+                "calories": 5
+            },
+            {
+                "item": "Fresh Tomato",
+                "price": null,
+                "calories": 10
+            },
+            {
+                "item": "Zesty Onions",
+                "price": null,
+                "calories": 10
+            },
+            {
+                "item": "Cheese",
+                "price": null,
+                "calories": 40
+            },
+            {
+                "item": "Jalapenos",
+                "price": null,
+                "calories": 10
+            },
+            {
+                "item": "Corn",
+                "price": null,
+                "calories": 60
+            }
+        ],
+        "Sauces": [
+            {
+                "item": "White",
+                "price": null,
+                "calories": 125
+            },
+            {
+                "item": "Hot White",
+                "price": null,
+                "calories": 150
+            },
+            {
+                "item": "Hot",
+                "price": null,
+                "calories": 100
+            },
+            {
+                "item": "Green",
+                "price": null,
+                "calories": 100
+            },
+            {
+                "item": "Tahini",
+                "price": null,
+                "calories": 150
+            },
+            {
+                "item": "BBQ",
+                "price": null,
+                "calories": 150
+            }
+        ],
+        "Extras": [
+            {
+                "item": "Zoodles",
+                "price": 0.99,
+                "calories": null
+            },
+            {
+                "item": "Hummus",
+                "price": 0.79,
+                "calories": null
+            },
+            {
+                "item": "Meat",
+                "price": 1.69,
+                "calories": null,
+                "meat": true
+            },
+            {
+                "item": "Small Soda",
+                "price": 1.99,
+                "calories": null
+            },
+            {
+                "item": "Medium Soda",
+                "price": 2.29,
+                "calories": null
+            },
+            {
+                "item": "Bottled Water",
+                "price": 2.29,
+                "calories": null
+            },
+            {
+                "item": "Crispy Pita Chips",
+                "price": null,
+                "calories": 60
+            }
+        ]
+    }
+}
